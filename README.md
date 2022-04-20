@@ -1,2 +1,2 @@
 # Python
-Apps Desenvolvidos em Python
+Aplicações Desenvolvidos em Python
